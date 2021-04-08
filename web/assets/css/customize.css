@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100vh;
+}
+
+.bg-custom {
+    background-image: linear-gradient(to bottom right, rgb(250, 253, 44), rgb(180, 180, 251), rgb(255, 255, 255));
+}
+
+.mini-footer {
+    background: #262b30;
+    text-align: center;
+    padding: 15px 0;
+    color: white;
+}
+
+.img {
+    height: 17.5rem;
+}
+
+.card-body {
+    background: linear-gradient(to right top, #c5ebec, #95e4e7);
+}

@@ -1,0 +1,10 @@
+home
+login-page
+login
+create-account
+create-account-page
+invalid
+search-car
+choose-category
+view-detail
+rental-car

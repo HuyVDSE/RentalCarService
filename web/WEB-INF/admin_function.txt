@@ -1,0 +1,9 @@
+home
+logout
+search-car
+choose-category
+view-detail
+track-rental-order
+track-rental-page
+search-order
+delete-order
